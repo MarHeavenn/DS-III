@@ -1,6 +1,7 @@
 # DS-III
 
 **Equipo:** 6
+
 **Integrantes:**
 - Juan Manuel Arango 2259571 G51
 - Alex García Castañeda 2259517 G51
