@@ -6,6 +6,7 @@
 Este documento describe la arquitectura inicial del sistema de gestión de órdenes y entregas, incluyendo requisitos funcionales, requisitos de calidad y restricciones clave que deben ser consideradas en el diseño del software.
 
 **Equipo:** 6
+
 **Integrantes:**
 - Juan Manuel Arango 2259571 G51
 - Alex García Castañeda 2259517 G51
