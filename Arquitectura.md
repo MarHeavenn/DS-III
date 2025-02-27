@@ -59,7 +59,7 @@ Las restricciones establecen **limitaciones** en la arquitectura del sistema, ya
 | **Tipo de Restricción** | **Descripción** |
 |------------------------|----------------|
 | Tecnológica | El sistema debe desarrollarse utilizando **Spring Boot y PostgreSQL**, debido a la infraestructura actual de la empresa y su compatibilidad con otros sistemas internos. |
-| _[Agregar otro tipo]_ | _[Describir la restricción]_ |
+| Regulatoria | Debe cumplir con la Ley de Protección de Datos Personales, asegurando el consentimiento del usuario para almacenar y procesar sus datos. |
 
 >  **Tipos de restricciones:**  
 > - **Tecnológicas:** Lenguajes, frameworks o herramientas que deben utilizarse.  
