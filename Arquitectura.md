@@ -60,6 +60,10 @@ Las restricciones establecen **limitaciones** en la arquitectura del sistema, ya
 |------------------------|----------------|
 | Tecnológica | El sistema debe desarrollarse utilizando **Spring Boot y PostgreSQL**, debido a la infraestructura actual de la empresa y su compatibilidad con otros sistemas internos. |
 | Regulatoria | Debe cumplir con la Ley de Protección de Datos Personales, asegurando el consentimiento del usuario para almacenar y procesar sus datos. |
+| Infraestructura | El sistema debe ejecutarse en contenedores Docker para facilitar la portabilidad y evitar problemas de configuración en diferentes entornos. |
+| Tecnológica | Se usará autenticación básica con JWT, sin integración con OAuth o terceros, para simplificar el desarrollo. |
+| De negocio | La aplicación solo soportará un conjunto mínimo de funcionalidades esenciales para cumplir con los requerimientos del proyecto. |
+
 
 >  **Tipos de restricciones:**  
 > - **Tecnológicas:** Lenguajes, frameworks o herramientas que deben utilizarse.  
