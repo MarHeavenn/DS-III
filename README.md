@@ -10,7 +10,11 @@
 - Víctor Manuel Hernández Ortíz 2259520 G51
 - Tina María Torres Tascón 2259729 G51
   
-**Fecha:** 20/02/2025  
+**Fecha:** 20/02/2025
+
+## Documento de Arquitectura completo:
+
+[Ver la Arquitectura](Arquitectura.md)
 
 ## 3. Requisitos de Calidad  
 Los requisitos de calidad se presentan en forma de **historias de calidad**, siguiendo la estructura de Len Bass.
